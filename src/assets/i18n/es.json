@@ -1,10 +1,10 @@
 {
 	"about": {
-		"contribute": "Si usted desea contribuir a la traducción del software en otra idioma mejorar las traducciones existentes, le recomendamos al <a href=\"https://github.com/LINCnil/pia/tree/master/src/assets/i18n\" target=\"_blank\">leer la página que describe los pasos</a>.",
-		"description": "Esta herramienta es diseñada originalmente por la CNIL, la autoridad francesa de la protección de los datos, ayudar al informático a ser obediente con el software de GDPR. It was developed by <a href=\"https://atnos.com\" target=\"_blank\">ATNOS</a>.<br>This está libre y abierto. Si usted desea conseguir implicado en este proyecto, usted es agradable descargar el código de fuente de Github, lo modifica y lo comparte con la comunidad.",
-		"licences": "Library licenses:",
+		"contribute": "Si usted desea contribuir a la traducción del software en otro idioma o mejorar las traducciones existentes, le recomendamos <a href=\"https://github.com/LINCnil/pia/tree/master/src/assets/i18n\" target=\"_blank\">leer la página que describe los pasos</a>.",
+		"description": "Esta herramienta está diseñada originalmente por la CNIL, la autoridad francesa de la protección de los datos, para ayudar a los Responsables del tratamiento a cumplir con el RGPD. Ha sido desarrollado por <a href=\"https://atnos.com\" target=\"_blank\">ATNOS</a>.<br> Este proyecto es libre y abierto. Si usted desea implicarse en este proyecto, puede descargar el código fuente de Github, modificarlo y compartirlo con la comunidad.",
+		"licences": "Libreria de Licencias:",
 		"title": "Sobre la herramienta PIA",
-		"translators": "El software del PIA es actualmente disponible en dieciocho idiomas. Las versiones francesas e inglesas son proporcionadas por el CNIL. El otros las versiones resultan de las contribuciones de los individuos siguientes:",
+		"translators": "El software del PIA está actualmente disponible en dieciocho idiomas. Las versiones francesa e inglesa son proporcionadas por el CNIL. Las restantes versiones son resultado de las contribuciones de las siguientes personas:",
 		"translators_name": "<ul><li>Croatian : <a target=\"_blank\" href=\"https://github.com/B2KapitalBA\">B2KapitalBA</a> ;</li><li>Czech : Jiří Grohmann, Manuel d’Orso ;</li><li>Danish : <a target=\"_blank\" href=\"https://github.com/moolsen\">Michael Drews Olsen</a> ;</li><li>Dutch : Ruud van Driel, Manuel d’Orso ;</li><li>English : <a target=\"_blank\" href=\"https://www.cnil.fr\">CNIL</a> ;</li><li>Estonian : Eva Arumets, Lauri Bender, Rebeka Dronia, Kärol Kibena, Simon Suuban, <a target=\"_blank\" href=\"https://kochpartners.ee/en/people/urmas-kukk/\">Urmas Kukk, <a target=\"_blank\" href=\"https://github.com/PrivacyAssessment1\">PrivacyAssessment1</a> ;</li><li>Finnish : <a target=\"_blank\" href=\"https://tietosuoja.fi/etusivu\">Tietosuojavaltuutetun toimisto</a> ;</li><li>French : <a target=\"_blank\" href=\"https://www.cnil.fr\">CNIL</a> ;</li><li>German  : <a target=\"_blank\" href=\"https://github.com/kosmas58\">Kosmas Schütz</a> , Corina Scheiter (<a target=\"_blank\" href=\"https://www.datenschutz-bayern.de/\">BayLfD</a>) ;</li><li>Greek : <a target=\"_blank\" href=\"https://tzellis.gr\">Dimitris Tzellis</a> ;</li><li>Hungarian : <a target=\"_blank\" href=\"https://naih.hu/\">Nemzeti Adatvédelmi és Információszabadság Hatóság (NAIH)</a> ;</li><li>Italian : Manuel d’Orso, Gianluca Markos, Antonio Caselli (<a target=\"_blank\" href=\"http://gpdp.it\">Garante per la Protezione dei Dai Personali (GPDP)</a>) ;</li><li>Lithuanian : Paulius Galubickas (<a target=\"_blank\" href=\"http://galubickas.lt\">Law firm Galubickas</a>) ;</li><li>Norwegian : <a target=\"_blank\" href=\"https://www.datatilsynet.no\">Datatilsynet</a> ;</li><li>Polish : <a target=\"_blank\" href=\"https://github.com/JoannaKar\">Joanna Karczewska</a> , Michal Mazur (<a target=\"_blank\" href=\"https://giodo.gov.pl\">Generalny Inspektor Ochrony Danych Osobowych (GIODO)</a>) ;</li><li>Portuguese : <a target=\"_blank\" href=\"https://github.com/bagois\">Barbara Gois</a> ;</li><li>Romanian : <a target=\"_blank\" href=\"https://github.com/webmyday\">webmyday</a> ;</li><li>Spanish : <a target=\"_blank\" href=\"https://github.com/ylachgar\">ylachgar</a> .</li></ul>",
 		"version_number": "Número de versión"
 	},
@@ -53,7 +53,7 @@
 		"send": "Envíe"
 	},
 	"errors": {
-		"content": "Si usted encuentra otros problemas o si usted tiene sugerencias para la mejora, el <br>you puede enviarlas detrás vía esta forma: <a href=\"https://www.cnil.fr/fr/webform/vos-retours-sur-loutil-pia\" target=\"_blank\">https://www.cnil.fr/fr/webform/vos-retours-sur-loutil-pia</a>",
+		"content": "Si encuentra otros problemas o si tiene sugerencias para la mejora, el <br>you puede enviarlas de esta forma: <a href=\"https://www.cnil.fr/fr/webform/vos-retours-sur-loutil-pia\" target=\"_blank\">https://www.cnil.fr/fr/webform/vos-retours-sur-loutil-pia</a>",
 		"title": "Página no encontrada."
 	},
 	"evaluations": {
@@ -115,7 +115,7 @@
 		"logo_subtitle": "",
 		"logo_title": "Evaluación de impacto de la privacidad",
 		"pia_example_link": "Ejemplo de PIA",
-		"structures": "TO BE TRANSLATED - Modèles de PIA",
+		"structures": "Plantilla de PIA",
 		"tools": {
 			"about": "Acerca de",
 			"accessibility": "Accesibilidad para personas con discapacidad visual (colores de alto contraste, daltonismo)",
@@ -172,11 +172,11 @@
 			"date": "Fecha",
 			"evaluation": "Revisado por",
 			"import_pia": "Importación PIA",
-			"import_structure": "TO BE TRANSLATED - Import template",
+			"import_structure": "Importar Plantilla",
 			"item": {
 				"consult_pia": "Consultar PIA",
 				"edit_pia": "Modificar PIA",
-				"edit_structure": "TO BE TRANSLATED - Éditer le modèle",
+				"edit_structure": "Modificar el Modelo",
 				"tools": {
 					"action_plan": "Mostrar<br>plan de acción",
 					"duplicate": "Duplicar",
@@ -187,13 +187,13 @@
 				}
 			},
 			"new_pia": "Nuevo PIA",
-			"new_structure": "TO BE TRANSLATED - Nouveau modèle",
+			"new_structure": "Nueva Plantilla",
 			"or": "o",
 			"pia_name": "PIA",
 			"placeholder_author": "Nombre y apellidos",
 			"placeholder_evaluation": "Nombre y apellidos",
 			"placeholder_import_pia": "Importación PIA",
-			"placeholder_import_structure": "TO BE TRANSLATED - Importer modèle",
+			"placeholder_import_structure": "Importar Modelo",
 			"placeholder_new_pia": "Nuevo PIA",
 			"placeholder_new_structure": "TO BE TRANSLATED - Nouveau modèle",
 			"placeholder_pia_name": "Nombre del PIA",
